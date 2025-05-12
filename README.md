@@ -55,7 +55,7 @@ Test the C Program for the desired output.
 
 
 
-##OUTPUT
+## OUTPUT
 
 
 
@@ -112,7 +112,7 @@ Test the C Program for the desired output.
 
 
 
-##OUTPUT
+## OUTPUT
 ![alt text](42.png)
 
 
@@ -163,7 +163,7 @@ Test the C Program for the desired output.
 
 
 
-##OUTPUT
+## OUTPUT
 
 
 
