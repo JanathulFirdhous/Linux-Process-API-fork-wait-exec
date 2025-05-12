@@ -173,7 +173,8 @@ Test the C Program for the desired output.
 
 
 
-![alt text](44.png)
+<img width="307" alt="image" src="https://github.com/user-attachments/assets/d4539617-1755-4875-9141-590353da19cc" />
+
 
 
 
