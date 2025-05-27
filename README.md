@@ -58,8 +58,8 @@ Test the C Program for the desired output.
 ## OUTPUT
 
 
+![alt text](<Screenshot From 2025-05-27 09-04-12.png>)
 
-![alt text](41.png)
 
 
 
@@ -113,8 +113,8 @@ Test the C Program for the desired output.
 
 
 ## OUTPUT
-![alt text](42.png)
 
+![alt text](<Screenshot From 2025-05-27 09-05-12.png>)
 
 
 
@@ -167,13 +167,13 @@ Test the C Program for the desired output.
 
 
 
-
-
-![alt text](43.png)
+![alt text](<Screenshot From 2025-05-27 09-06-44.png>)
 
 
 
-<img width="307" alt="image" src="https://github.com/user-attachments/assets/d4539617-1755-4875-9141-590353da19cc" />
+![alt text](<Screenshot From 2025-05-27 09-06-54.png>)
+
+
 
 
 
